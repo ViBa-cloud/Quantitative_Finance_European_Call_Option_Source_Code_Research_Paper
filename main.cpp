@@ -39,7 +39,7 @@ int main(){
 
 	//Step6: Output Results
 	cout<<"premium= "<< premium<< "\n";
-	cout<<"\n *** End of Equation1: Monte Carlo Single Asset *** \n";
+	cout<<"\n *** End of First Equation: Monte Carlo Single Asset *** \n";
 
 	return 0;
 }
